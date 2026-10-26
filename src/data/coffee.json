@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c1",
+    "date": "2026-10-26",
+    "field": "ማሳ 01",
+    "unit": "ኪ.ግ",
+    "picked": 450,
+    "delivered": 445,
+    "cumulative": 1200,
+    "workers": "አበበ ከበደ, ሀና ተስፋዬ"
+  },
+  {
+    "id": "c2",
+    "date": "2026-10-26",
+    "field": "ማሳ 02",
+    "unit": "ኪ.ግ",
+    "picked": 320,
+    "delivered": 318,
+    "cumulative": 950,
+    "workers": "ሳሙኤል ጌታቸው"
+  },
+  {
+    "id": "c3",
+    "date": "2026-10-25",
+    "field": "ማሳ 03",
+    "unit": "ኪ.ግ",
+    "picked": 580,
+    "delivered": 575,
+    "cumulative": 1750,
+    "workers": "ማርታ ተሾመ"
+  }
+]

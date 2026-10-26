@@ -1,0 +1,38 @@
+[
+  {
+    "id": "o1",
+    "date": "2026-10-26",
+    "office": "ኤፍራታ እርሻ",
+    "subFarm": "ንዑስ እርሻ 01",
+    "activity": "አረም ማረም",
+    "unit": "ሄክታር",
+    "block": "ማሳ 01",
+    "norm": 2,
+    "plan": 12,
+    "actual": 10,
+    "labor": 8,
+    "payment": 2400,
+    "comment": "የዕለቱ ሥራ በጥሩ ሁኔታ ተከናውኗል።",
+    "prepared": "አበበ ከበደ",
+    "verified": "ሀና ተስፋዬ",
+    "approved": ""
+  },
+  {
+    "id": "o2",
+    "date": "2026-10-25",
+    "office": "ኤፍራታ እርሻ",
+    "subFarm": "ንዑስ እርሻ 02",
+    "activity": "ቡና መልቀም",
+    "unit": "ኪ.ግ",
+    "block": "ማሳ 02",
+    "norm": 5,
+    "plan": 500,
+    "actual": 470,
+    "labor": 12,
+    "payment": 3600,
+    "comment": "",
+    "prepared": "ማርታ ተሾመ",
+    "verified": "",
+    "approved": ""
+  }
+]
